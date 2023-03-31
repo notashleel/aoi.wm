@@ -1,5 +1,5 @@
 {
-  "name": "aoi.wm",
+  "name": "@lerkfx/aoi.wm",
   "version": "1.0.0",
   "description": "A simple package for watermarking images",
   "main": "index.js",
